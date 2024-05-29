@@ -1,0 +1,8 @@
+{
+    "description":"AAAAA",
+    "format":".lzma",
+    "main":"打开共享.exe",
+    "updater":"打开共享.exe",
+    "url":"\\\\127.0.0.1\\Downloads\\新建文件夹\\update",
+    "version":"0.0.0.96"
+}
